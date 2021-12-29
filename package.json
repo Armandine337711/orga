@@ -1,0 +1,27 @@
+{
+  "name": "theproject",
+  "version": "1.0.0",
+  "description": "this is the begining of my planning project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node-dev app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armandine337711/orga.git"
+  },
+  "author": "Armandine LE GAL BARGE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armandine337711/orga/issues"
+  },
+  "homepage": "https://github.com/Armandine337711/orga#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "pg": "^8.7.1"
+  }
+}
